@@ -11,7 +11,7 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: actions/setup-node@v2
         with:
           # only lint on latest node
@@ -35,7 +35,7 @@ jobs:
         node: [16, 14, 12]
         script: ["ci:test:unit", "ci:test:integration"]
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node }}
@@ -62,7 +62,7 @@ jobs:
         script: ["ci:test:unit", "ci:test:integration"]
         subset: [publish, non-publish]
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: actions/setup-node@v2
         with:
           # only run windows tests on latest node
