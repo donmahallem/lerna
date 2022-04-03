@@ -2,6 +2,7 @@
     "baseBranches": [
         "main"
     ],
+    "branchConcurrentLimit":30,
     "includeForks": true,
     "extends": [
         "@donmahallem"
