@@ -54,7 +54,7 @@
     "globby": "^11.0.4",
     "has-unicode": "^2.0.1",
     "import-local": "^3.1.0",
-    "init-package-json": "^2.0.2",
+    "init-package-json": "^2.0.5",
     "inquirer": "^7.3.3",
     "is-ci": "^3.0.1",
     "libnpmaccess": "^4.0.1",
