@@ -57,7 +57,7 @@
     "init-package-json": "^2.0.2",
     "inquirer": "^7.3.3",
     "is-ci": "^3.0.1",
-    "libnpmaccess": "^4.0.1",
+    "libnpmaccess": "^4.0.3",
     "libnpmpublish": "^4.0.0",
     "load-json-file": "^6.2.0",
     "lodash.template": "^4.5.0",
