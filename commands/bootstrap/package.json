@@ -47,7 +47,7 @@
     "@lerna/validation-error": "file:../../core/validation-error",
     "dedent": "^0.7.0",
     "get-port": "^5.1.1",
-    "multimatch": "^5.0.0",
+    "multimatch": "^6.0.0",
     "npm-package-arg": "^8.1.0",
     "npmlog": "^6.0.1",
     "p-map": "^4.0.0",
