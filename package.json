@@ -58,7 +58,7 @@
     "inquirer": "^7.3.3",
     "is-ci": "^3.0.1",
     "libnpmaccess": "^4.0.1",
-    "libnpmpublish": "^4.0.0",
+    "libnpmpublish": "^4.0.2",
     "load-json-file": "^6.2.0",
     "lodash.template": "^4.5.0",
     "minimatch": "^5.0.1",
