@@ -39,7 +39,7 @@
     "@lerna/write-log-file": "file:../../utils/write-log-file",
     "clone-deep": "^4.0.1",
     "dedent": "^0.7.0",
-    "execa": "^5.1.1",
+    "execa": "^6.1.0",
     "is-ci": "^3.0.1",
     "npmlog": "^6.0.1"
   }
