@@ -46,7 +46,7 @@
     "pacote": "^11.2.6",
     "pify": "^5.0.0",
     "semver": "^7.3.5",
-    "slash": "^3.0.0",
+    "slash": "^4.0.0",
     "validate-npm-package-license": "^3.0.4",
     "validate-npm-package-name": "^4.0.0",
     "whatwg-url": "^11.0.0",
