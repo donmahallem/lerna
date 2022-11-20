@@ -50,7 +50,7 @@
     "multimatch": "^5.0.0",
     "npm-package-arg": "^8.1.0",
     "npmlog": "^6.0.1",
-    "p-map": "^4.0.0",
+    "p-map": "^5.5.0",
     "p-map-series": "^2.1.0",
     "p-waterfall": "^2.1.1",
     "read-package-tree": "^5.3.1",
