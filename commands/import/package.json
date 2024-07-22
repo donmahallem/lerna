@@ -39,6 +39,6 @@
     "@lerna/validation-error": "file:../../core/validation-error",
     "dedent": "^0.7.0",
     "fs-extra": "^10.0.1",
-    "p-map-series": "^2.1.0"
+    "p-map-series": "^3.0.0"
   }
 }
