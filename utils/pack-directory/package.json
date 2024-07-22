@@ -33,7 +33,7 @@
     "npm-packlist": "^4.0.0",
     "npmlog": "^6.0.1",
     "tar": "^6.1.11",
-    "temp-write": "^4.0.0"
+    "temp-write": "^5.0.0"
   },
   "engines": {
     "node": ">= 10.18.0"
