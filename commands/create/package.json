@@ -42,7 +42,7 @@
     "globby": "^11.0.4",
     "init-package-json": "^2.0.2",
     "npm-package-arg": "^8.1.0",
-    "p-reduce": "^2.1.0",
+    "p-reduce": "^3.0.0",
     "pacote": "^11.2.6",
     "pify": "^5.0.0",
     "semver": "^7.3.5",
