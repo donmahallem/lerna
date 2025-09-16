@@ -141,7 +141,7 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-prettier": "4.0.0",
     "expect": "27.5.1",
-    "file-url": "3.0.0",
+    "file-url": "4.0.0",
     "find-up": "5.0.0",
     "jest": "27.5.1",
     "jest-circus": "27.5.1",
