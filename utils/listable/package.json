@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@lerna/query-graph": "file:../query-graph",
-    "chalk": "^4.1.2",
+    "chalk": "^5.6.2",
     "columnify": "^1.5.4"
   }
 }
