@@ -62,7 +62,7 @@
     "load-json-file": "^6.2.0",
     "lodash.template": "^4.5.0",
     "minimatch": "^5.0.1",
-    "multimatch": "^5.0.0",
+    "multimatch": "^6.0.0",
     "node-fetch": "^2.6.7",
     "npm-lifecycle": "^3.1.5",
     "npm-package-arg": "^8.1.0",

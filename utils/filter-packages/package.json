@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@lerna/validation-error": "file:../../core/validation-error",
-    "multimatch": "^5.0.0",
+    "multimatch": "^6.0.0",
     "npmlog": "^6.0.1"
   }
 }
